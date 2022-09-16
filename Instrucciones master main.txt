@@ -1,0 +1,7 @@
+Primero que nada, cuando empezamos un repositorio, vamos a settings en el repo,
+nos dirigimos a la seccion branch, y editamos la rama predeterminada master por main
+apretando en el lapiz.
+
+
+
+
